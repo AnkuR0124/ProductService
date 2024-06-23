@@ -27,7 +27,7 @@ To install and run the project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Rudrakc/Product-Service.git
+   git clone https://github.com/ankur-kalita/ProductService.git
    ```
 
 2. Import the project into your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
